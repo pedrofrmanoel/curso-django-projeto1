@@ -1,2 +1,3 @@
 venv
 .Ds.Store
+.mypy_cache
